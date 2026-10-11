@@ -1,0 +1,59 @@
+# Obsidian Browser
+
+Obsidian Browser is a lightweight desktop web browser built with Python, PyQt6, and Chromium-based rendering. Designed with privacy in mind, it aims to provide a simple browsing experience with minimal tracking.
+
+## Features
+
+- Desktop web browsing
+- Chromium-based page rendering through Qt WebEngine
+- Lightweight Python implementation
+- Privacy-focused design goals
+- Open source for personal and educational use, subject to the project's license
+
+## Requirements
+
+- Python 3
+- PyQt6
+- PyQt6-WebEngine
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Hacktivate892/Obsidian.git
+   ```
+
+2. Enter the project directory:
+
+   ```bash
+   cd Obsidian
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the browser using your main Python file. For example:
+
+   ```bash
+   python main.py
+   ```
+
+   Replace `main.py` with your actual Python filename if it is different.
+
+## License
+
+Obsidian Browser is distributed under the **Obsidian Browser Non-Commercial License**. You may use, modify, and redistribute the code for permitted non-commercial purposes, provided you follow the license terms and give proper credit to the original creator.
+
+Commercial use requires prior written permission from the copyright holder. See the `LICENSE` file for the full terms.
+
+## Disclaimer
+
+Obsidian Browser is provided "as is", without warranties or guarantees. Although it is designed with privacy in mind, it does not guarantee complete anonymity or prevent all forms of tracking.
+
+## Author
+
+Created by Hacktivate892.
