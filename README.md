@@ -62,10 +62,8 @@ pip install -r requirements.txt
 ### 4. Launch Obsidian
 
 ```bash
-python main.py
+python browser.py
 ```
-
-> **Note:** Replace `main.py` with the name of your main Python file if it differs.
 
 ## License
 
