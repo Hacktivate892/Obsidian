@@ -88,5 +88,5 @@ While the project is designed with privacy in mind, it does not guarantee comple
 ---
 
 <p align="center">
-  <sub>Obsidian Browser — Browse with a different perspective.</sub>
+  <sub>Obsidian Browser — (C) Hacktivate892 & Gunin Modi.</sub>
 </p>
