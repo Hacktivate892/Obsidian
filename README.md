@@ -50,7 +50,7 @@ git clone https://github.com/Hacktivate892/Obsidian.git
 ### 2. Navigate to the project directory
 
 ```bash
-cd Obsidian
+cd ObsidianOS
 ```
 
 ### 3. Install dependencies
