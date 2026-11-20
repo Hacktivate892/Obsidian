@@ -1,0 +1,5 @@
+var username = Isaiah
+var age = 15
+
+print username
+print age
